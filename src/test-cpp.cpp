@@ -1,5 +1,9 @@
 #include "test-cpp.h"
 
+extern "C" int LLVMFuzzerTestOneInput(const int *Data) {
+    return 0;
+}
+
 //' rcpp_test
 //' @noRd 
 // [[Rcpp::export]]

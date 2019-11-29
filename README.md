@@ -3,7 +3,7 @@
 <!-- badges: start -->
 
 [![Travis build
-status](https://travis-ci.org/mpadge/libfuzzerr?branch=master)](https://travis-ci.org/mpadge/libfuzzerr)
+status](https://travis-ci.org/mpadge/libfuzzerr.svg?branch=master)](https://travis-ci.org/mpadge/libfuzzerr)
 [![Project Status:
 Concept](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)
 <!-- badges: end -->

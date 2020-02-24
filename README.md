@@ -2,12 +2,12 @@
 
 <!-- badges: start -->
 
+[![R build
+status](https://github.com/mpadge/libfuzzerr/workflows/R-CMD-check/badge.svg)](https://github.com/mpadge/libfuzzerr/actions)
 [![Travis build
 status](https://travis-ci.org/mpadge/libfuzzerr.svg?branch=master)](https://travis-ci.org/mpadge/libfuzzerr)
 [![Project Status:
 Concept](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)
-[![R build
-status](https://github.com/mpadge/libfuzzerr/workflows/R-CMD-check/badge.svg)](https://github.com/mpadge/libfuzzerr/actions)
 <!-- badges: end -->
 
 Experiments in using [llvm’s
